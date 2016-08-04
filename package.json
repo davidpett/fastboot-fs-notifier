@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/iheanyi/fastboot-fs-notifier#readme",
   "dependencies": {
-    "debounce": "^1.0.0"
+    "debounce": "^1.0.0",
+    "fs-extra": "^0.30.0"
   }
 }
